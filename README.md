@@ -15,5 +15,5 @@ To make my game will be implementing the A* path finding algorithm to traverse t
 ## Video of all functions of the program
 
 Video used when I submitted my coursework showing all functions of the program developed for coursework.
-
+https://www.youtube.com/watch?v=KsrxxlabXwg&feature=youtu.be
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KsrxxlabXwg/0.jpg)](https://www.youtube.com/watch?v=KsrxxlabXwg&feature=youtu.be)
